@@ -13,6 +13,7 @@ Wild Humans:
 
 -Casual User
 -mystic x the unknown
+-bumbadadabum
 
 Imperials:
 
@@ -26,3 +27,11 @@ Infernals:
 -shadowmaster
 -fmunoz
 -Sleepwalker
+
+Undead:
+
+-shadowmaster
+
+Sylvans:
+
+-shadowmaster
