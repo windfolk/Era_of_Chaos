@@ -25,6 +25,7 @@ Imperials:
 Infernals:
 
 -shadowmaster
+-Zerovirus
 -fmunoz
 -Sleepwalker
 
