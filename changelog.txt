@@ -6,3 +6,7 @@ Changelog:
 
 -Added an attack icon for the thunderbird
 -Added the Vampires
+
+0.7.0:
+
+-Initial release
