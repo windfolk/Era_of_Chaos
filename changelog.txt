@@ -5,3 +5,4 @@ Changelog:
 0.7.0+svn:
 
 -Added an attack icon for the thunderbird
+-Added the Vampires
