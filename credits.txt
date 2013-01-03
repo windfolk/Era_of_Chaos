@@ -38,3 +38,9 @@ Undead:
 Sylvans:
 
 -shadowmaster
+
+Dwarves:
+
+-bumbadadabum
+-Neoriceisgood
+-AI0867

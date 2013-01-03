@@ -2,6 +2,10 @@
 
 Changelog:
 
+0.8.0+svn:
+
+-Added the Dwarves
+
 0.8.0:
 
 -Added an attack icon for the thunderbird
