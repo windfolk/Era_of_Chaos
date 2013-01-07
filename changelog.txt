@@ -2,6 +2,7 @@
 
 Changelog:
 0.9.0+svn:
+-Animation fixes
 
 
 0.9.0:
