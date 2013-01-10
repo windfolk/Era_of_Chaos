@@ -6,6 +6,7 @@ Changelog:
 
 -Animation fixes
 -Added the missing basic shaxthal palettes
+-Made a basic "Use Shaxthal Surface Variations" mod
 
 0.9.0:
 
