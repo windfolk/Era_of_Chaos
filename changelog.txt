@@ -3,7 +3,7 @@
 Changelog:
 0.9.0+svn:
 -Animation fixes
-
+-Added the missing basic shaxthal palettes
 
 0.9.0:
 
