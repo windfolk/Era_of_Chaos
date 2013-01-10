@@ -1,7 +1,9 @@
 -Era of Chaos-
 
 Changelog:
+
 0.9.0+svn:
+
 -Animation fixes
 -Added the missing basic shaxthal palettes
 
