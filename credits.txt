@@ -44,3 +44,10 @@ Dwarves:
 -bumbadadabum
 -Neoriceisgood
 -AI0867
+
+Elementals:
+
+-Espreon
+-bumbadadabum
+-Eleazar
+-fmunoz
