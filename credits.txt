@@ -35,6 +35,10 @@ Undead:
 
 -shadowmaster
 
+Quenoth Elves:
+
+-megane
+
 Sylvans:
 
 -shadowmaster

@@ -10,6 +10,8 @@ Changelog:
 -Renamed Chaos and Biomechanical Advanced Crossbowman to Arbalestier
 -Added the Elementals
 -Updated Chaos Bowman sprites
+-Updated Desert Druid sprite
+-Rebalanced the Desert Shaman line
 
 0.9.0:
 
