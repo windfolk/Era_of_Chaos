@@ -12,6 +12,7 @@ Changelog:
 -Updated Chaos Bowman sprites
 -Updated Desert Druid sprite
 -Rebalanced the Desert Shaman line
+-Buffed the Quenoth Scout line
 
 0.9.0:
 
