@@ -13,6 +13,11 @@ Changelog:
 -Updated Desert Druid sprite
 -Rebalanced the Desert Shaman line
 -Buffed the Quenoth Scout line
+-Added the Aragwaithi
+-New portraits for the Chaos Invader and Chaos Knight
+-Lowered the Headhunter's cost to 15
+-Merged the Outlaws and Wild Humans
+-Tweaked the Wild Humans' stats
 
 0.9.0:
 
