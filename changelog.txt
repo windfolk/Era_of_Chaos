@@ -2,7 +2,9 @@
 
 Changelog:
 
-1.0.0+svn:
+1.0.1
+
+-Fixed typo in Heroes era recruit list that was causing segfaults
 
 1.0.0:
 
