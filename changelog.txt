@@ -2,9 +2,11 @@
 
 Changelog:
 
-1.0.1+svn
+1.0.1+svn:
 
-1.0.1
+-Added some more demons from After the Storm
+
+1.0.1:
 
 -Fixed typo in Heroes era recruit list that was causing errors
 
