@@ -6,6 +6,7 @@ Changelog:
 
 -Added some more demons from After the Storm
 -Added marksman to the Quenoth Swordsmaster
+-Rebalanced the Quenoth Archer line
 
 1.0.1:
 
