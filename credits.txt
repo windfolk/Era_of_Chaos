@@ -63,3 +63,8 @@ Aragwaithi:
 
 -wayfarer
 -bumbadadabum
+
+Orcs:
+
+-doofus-01
+-Sleepwalker
