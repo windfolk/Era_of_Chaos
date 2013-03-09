@@ -7,6 +7,8 @@ Changelog:
 -Added some more demons from After the Storm
 -Added marksman to the Quenoth Swordsmaster
 -Rebalanced the Quenoth Archer line
+-Added water units to the Wild Humans and the Quenoth Elves
+-Added the Orcs
 
 1.0.1:
 
