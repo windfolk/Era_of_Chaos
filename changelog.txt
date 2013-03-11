@@ -9,6 +9,7 @@ Changelog:
 -Rebalanced the Quenoth Archer line
 -Added water units to the Wild Humans and the Quenoth Elves
 -Added the Orcs
+-Lowered the max XP of the Bandit Fighter and Wild Archer
 
 1.0.1:
 
