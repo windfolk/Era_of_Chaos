@@ -10,6 +10,8 @@ Changelog:
 -Added water units to the Wild Humans and the Quenoth Elves
 -Added the Orcs
 -Lowered the max XP of the Bandit Fighter and Wild Archer
+-Reduced the Runner Drone's ranged damage and pierce resistance
+-Increased the Runner Drone's max XP
 
 1.0.1:
 
