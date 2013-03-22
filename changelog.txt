@@ -13,6 +13,8 @@ Changelog:
 -Reduced the Runner Drone's ranged damage and pierce resistance
 -Increased the Runner Drone's max XP
 -Corrected the Aragwaith Eagle Master's max XP
+-Gave the Aragwaith Greatbow precision on its ranged attack
+-Increased the Aragwaith Guard and Shield Guard's resistances
 
 1.0.1:
 
