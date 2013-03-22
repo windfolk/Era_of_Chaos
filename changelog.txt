@@ -15,6 +15,8 @@ Changelog:
 -Corrected the Aragwaith Eagle Master's max XP
 -Gave the Aragwaith Greatbow precision on its ranged attack
 -Increased the Aragwaith Guard and Shield Guard's resistances
+-Gave the Aragwaith Swordsmaster marksman instead of precision
+-Various fixes to the Aragwaith coding
 
 1.0.1:
 
