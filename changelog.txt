@@ -12,6 +12,7 @@ Changelog:
 -Lowered the max XP of the Bandit Fighter and Wild Archer
 -Reduced the Runner Drone's ranged damage and pierce resistance
 -Increased the Runner Drone's max XP
+-Corrected the Aragwaith Eagle Master's max XP
 
 1.0.1:
 
