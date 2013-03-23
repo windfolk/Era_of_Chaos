@@ -17,6 +17,7 @@ Changelog:
 -Increased the Aragwaith Guard and Shield Guard's resistances
 -Gave the Aragwaith Swordsmaster marksman instead of precision
 -Various fixes to the Aragwaith coding
+-Increased the Orcish Warlock's ranged damage
 
 1.0.1:
 
