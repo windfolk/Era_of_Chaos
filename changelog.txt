@@ -18,6 +18,7 @@ Changelog:
 -Gave the Aragwaith Swordsmaster marksman instead of precision
 -Various fixes to the Aragwaith coding
 -Decreased the Demon Zephyr's max XP by 15
+-Increased the Forest Spirit's movement by 1
 
 1.0.1:
 
