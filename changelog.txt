@@ -19,6 +19,7 @@ Changelog:
 -Various fixes to the Aragwaith coding
 -Decreased the Demon Zephyr's max XP by 15
 -Increased the Forest Spirit's movement by 1
+-Gave the Blood Apprentice transformation
 
 1.0.1:
 
