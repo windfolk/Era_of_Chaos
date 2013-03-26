@@ -2,7 +2,7 @@
 
 Changelog:
 
-1.0.1+svn:
+1.1.0:
 
 -Added some more demons from After the Storm
 -Added marksman to the Quenoth Swordsmaster
