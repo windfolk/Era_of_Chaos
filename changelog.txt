@@ -4,6 +4,7 @@ Changelog:
 
 1.1.0+svn:
 
+-Added the Loyalist Spearman line to the Wild Humans
 
 1.1.0:
 
