@@ -5,6 +5,7 @@ Changelog:
 1.1.0+svn:
 
 -Added the Loyalist Spearman line to the Wild Humans
+-Fixed the Dwarvish Commander being level 1
 
 1.1.0:
 
