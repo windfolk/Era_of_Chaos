@@ -69,3 +69,10 @@ Orcs:
 -doofus-01
 -Sleepwalker
 -thespaceinvader
+
+Vampires:
+
+-Jester
+-Melon
+-EVILEST
+-Espreon
