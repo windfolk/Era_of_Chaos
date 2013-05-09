@@ -5,6 +5,7 @@ Changelog:
 1.1.1+svn:
 
 -Fixed the "Descriptions should no longer include the name as the first line" error (1.11)
+-Fixed the regular Dark Adept being available as a leader in the undead rpg faction
 
 1.1.1:
 
