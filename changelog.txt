@@ -8,6 +8,7 @@ Changelog:
 -Fixed the regular Dark Adept being available as a leader in the undead rpg faction
 -Changed the Protection ability back to the original Extended Era mechanics. (affecting units of a lower level instead of just level 0 and 1)
 -Gave the Aragwaith Ancient Banner protection
+-Buffed the Chaos Headhunter by giving it +2 melee damage and -5 XP.
 
 1.1.1:
 
