@@ -10,6 +10,7 @@ Changelog:
 -Gave the Aragwaith Ancient Banner protection
 -Buffed the Chaos Headhunter by giving it +2 melee damage and -5 XP
 -Tweaked the Skeleton Rider line's movetype
+-Completely rebalanced the Elementals
 
 1.1.1:
 
