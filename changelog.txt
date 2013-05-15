@@ -11,6 +11,7 @@ Changelog:
 -Buffed the Chaos Headhunter by giving it +2 melee damage and -5 XP
 -Tweaked the Skeleton Rider line's movetype
 -Completely rebalanced the Elementals
+-Fixed the Naga Guardian advancements' TC
 
 1.1.1:
 
