@@ -12,6 +12,7 @@ Changelog:
 -Tweaked the Skeleton Rider line's movetype
 -Completely rebalanced the Elementals
 -Fixed the Naga Guardian advancements' TC
+-Fixed the Bandit Ambusher sprite not appearing
 
 1.1.1:
 
