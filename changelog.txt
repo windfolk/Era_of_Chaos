@@ -13,6 +13,7 @@ Changelog:
 -Completely rebalanced the Elementals
 -Fixed the Naga Guardian advancements' TC
 -Fixed the Bandit Ambusher sprite not appearing
+-Fixed the Wolf's ellipse
 
 1.1.1:
 
