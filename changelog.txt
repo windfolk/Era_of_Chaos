@@ -14,10 +14,11 @@ Changelog:
 -Fixed the Naga Guardian advancements' TC
 -Fixed the Bandit Ambusher sprite not appearing
 -Fixed the Wolf's ellipse
--Updated Demon line baseframes (L1 - L3)
+-New Demon line baseframes (L1 - L3)
 -Added smoke effects to the Iron Golem's ranged attack animation
 -Renamed the 'fairy' race to 'faerie'
 -New Imps race description
+-New baseframes for the Demon Stormtide
 
 1.1.1:
 
