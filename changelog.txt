@@ -19,6 +19,7 @@ Changelog:
 -Renamed the 'fairy' race to 'faerie'
 -New Imps race description
 -New baseframes for the Demon Stormtide
+-New baseframe for the Demoness Slashing Gale
 
 1.1.1:
 
