@@ -2,6 +2,8 @@
 
 Changelog:
 
+1.2.0+svn:
+
 1.2.0:
 
 -Fixed the "Descriptions should no longer include the name as the first line" error (1.11)
