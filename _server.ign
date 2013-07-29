@@ -1,0 +1,9 @@
+.*
+.*/
+.DS_Store
+*~*
+*.swp
+*.pbl
+*.ign
+_info.cfg
+images/unused
