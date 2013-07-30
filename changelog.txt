@@ -11,6 +11,7 @@ Changelog:
 -Fixed some broken image paths on the Fire Faerie
 -Added missing fire aura attack icon
 -Fixed defense animations for Quenoth Sun Enchantress and Life Mage
+-Updated animations for the Quenoth Flarebow and Blazebow
 
 
 1.2.0:
