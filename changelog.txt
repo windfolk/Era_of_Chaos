@@ -6,6 +6,9 @@ Changelog:
 
 -Fixed the Moon Enchantress having 1 MP
 -New sprites for the Dusk Faerie line (L1 - L3)
+-Decreased the Elvish Acolyte's cost
+-Altered the Dusk Faerie line's stats
+
 
 1.2.0:
 
