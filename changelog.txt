@@ -9,6 +9,7 @@ Changelog:
 -Decreased the Elvish Acolyte's cost
 -Altered the Dusk Faerie line's stats
 -Fixed some broken image paths on the Fire Faerie
+-Added missing fire aura attack icon
 
 
 1.2.0:
