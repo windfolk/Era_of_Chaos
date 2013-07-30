@@ -8,6 +8,7 @@ Changelog:
 -New sprites for the Dusk Faerie line (L1 - L3)
 -Decreased the Elvish Acolyte's cost
 -Altered the Dusk Faerie line's stats
+-Fixed some broken image paths on the Fire Faerie
 
 
 1.2.0:
