@@ -2,7 +2,7 @@
 
 Changelog:
 
-1.2.0+svn:
+1.2.1:
 
 -Fixed the Moon Enchantress having 1 MP
 -New sprites for the Dusk Faerie line (L1 - L3)
