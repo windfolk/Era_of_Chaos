@@ -8,6 +8,7 @@ Changelog:
 -New sprite for the Ice Fang
 -New sprite for the Demon Lord
 -Renamed the Nightshade Fire to Eventide Dancer
+-New unit descriptions for Demon and Dusk Faerie lines
 
 1.2.1:
 
