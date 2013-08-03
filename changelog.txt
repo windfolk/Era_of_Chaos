@@ -5,6 +5,9 @@ Changelog:
 1.2.1+svn:
 
 -Decreased the Ice Cub's HP and melee damage
+-New sprite for the Ice Fang
+-New sprite for the Demon Lord
+-Renamed the Nightshade Fire to Eventide Dancer
 
 1.2.1:
 
