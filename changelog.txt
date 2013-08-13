@@ -6,7 +6,7 @@ Changelog:
 
 -Decreased the Ice Cub's HP and melee damage
 -New sprite for the Ice Fang
--New sprite for the Demon Lord
+-New sprites for the Demon Lord
 -Renamed the Nightshade Fire to Eventide Dancer
 -New unit descriptions for Demon and Dusk Faerie lines
 
