@@ -12,6 +12,7 @@ Changelog:
 -New ranged animation for the Demon Spelldancer
 -Added missing projectile images
 -Added a missing attack icon
+-Fixed units having more than maximum moves after transforming
 
 1.2.1:
 
