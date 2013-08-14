@@ -10,6 +10,7 @@ Changelog:
 -Renamed the Nightshade Fire to Eventide Dancer
 -New unit descriptions for Demon and Dusk Faerie lines
 -New ranged animation for the Demon Spelldancer
+-Added missing projectile images
 
 1.2.1:
 
