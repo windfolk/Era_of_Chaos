@@ -11,6 +11,7 @@ Changelog:
 -New unit descriptions for Demon and Dusk Faerie lines
 -New ranged animation for the Demon Spelldancer
 -Added missing projectile images
+-Added a missing attack icon
 
 1.2.1:
 
