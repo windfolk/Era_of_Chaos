@@ -2,7 +2,7 @@
 
 Changelog:
 
-1.2.1+svn:
+1.2.2:
 
 -Decreased the Ice Cub's HP and melee damage
 -New sprite for the Ice Fang
