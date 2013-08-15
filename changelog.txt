@@ -2,6 +2,9 @@
 
 Changelog:
 
+1.2.2+svn:
+
+
 1.2.2:
 
 -Decreased the Ice Cub's HP and melee damage
