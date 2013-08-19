@@ -4,6 +4,7 @@ Changelog:
 
 1.2.2+svn:
 
+- Fixed Night Nymph advancement
 
 1.2.2:
 
