@@ -4,7 +4,8 @@ Changelog:
 
 1.2.2+svn:
 
-- Fixed Night Nymph advancement
+-Fixed Night Nymph advancement
+-Rebalanced the Chaos Longbowman and Crossbowman lines (L2 - L3)
 
 1.2.2:
 
