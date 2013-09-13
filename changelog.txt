@@ -8,6 +8,7 @@ Changelog:
 -Rebalanced the Chaos Longbowman and Crossbowman lines (L2 - L3)
 -Added a faerie race icon
 -Fixed the level 0 ellipses on 1.11.6+
+-Made the EoC unit files load in the editor for 1.11.4+
 
 1.2.2:
 
