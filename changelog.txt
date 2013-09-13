@@ -6,6 +6,8 @@ Changelog:
 
 -Fixed Night Nymph advancement
 -Rebalanced the Chaos Longbowman and Crossbowman lines (L2 - L3)
+-Added a faerie race icon
+-Fixed the level 0 ellipses on 1.11.6+
 
 1.2.2:
 
