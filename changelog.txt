@@ -10,6 +10,7 @@ Changelog:
 -Fixed the level 0 ellipses on 1.11.6+
 -Made the EoC unit files load in the editor for 1.11.4+
 -Added a missing Aragwaith Flagbearer standing animation
+-Made units with biomechanical_smallfoot movement type able to enter deep water
 
 1.2.2:
 
