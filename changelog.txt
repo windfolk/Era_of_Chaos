@@ -13,6 +13,7 @@ Changelog:
 -Made units with biomechanical_smallfoot movement type able to enter deep water
 -Fixed an encoding bug in the Goblin Lancer
 -Updated mainline strings; more attacks names should be translated for users using non-English Wesnoth
+-Renamed the Quenoth Marshal to Chieftain
 
 1.2.2:
 
