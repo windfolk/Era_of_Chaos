@@ -14,6 +14,7 @@ Changelog:
 -Fixed an encoding bug in the Goblin Lancer
 -Updated mainline strings; more attacks names should be translated for users using non-English Wesnoth
 -Renamed the Quenoth Marshal to Chieftain
+-Added special notes for Camouflage
 
 1.2.2:
 
