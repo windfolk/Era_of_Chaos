@@ -16,6 +16,7 @@ Changelog:
 -Renamed the Quenoth Marshal to Chieftain
 -Added special notes for Camouflage
 -Fixed the Sun Enchantress's fire aura having the staff icon
+-Made the Quenoth Stalker and Assassin elusivefoot
 
 1.2.2:
 
