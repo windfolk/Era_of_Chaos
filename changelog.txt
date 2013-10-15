@@ -17,6 +17,7 @@ Changelog:
 -Added special notes for Camouflage
 -Fixed the Sun Enchantress's fire aura having the staff icon
 -Made the Quenoth Stalker and Assassin elusivefoot
+-Fixed the Dwarvish Flamethrower's ranged attack not showing up
 
 1.2.2:
 
