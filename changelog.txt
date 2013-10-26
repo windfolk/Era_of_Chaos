@@ -21,6 +21,8 @@ Changelog:
 -Fixed the special notes for the Quenoth Mystic line
 -Gave the Quenoth Prophetess Sustenance
 -Buffed the imps, making them better melee fighters
+-Merged the Imperials and Infernals
+-Removed the Biomechanical soldiers and the Shaxthal Razorbird line
 
 1.2.2:
 
