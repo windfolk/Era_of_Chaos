@@ -20,6 +20,7 @@ Changelog:
 -Fixed the Dwarvish Flamethrower's ranged attack not showing up
 -Fixed the special notes for the Quenoth Mystic line
 -Gave the Quenoth Prophetess Sustenance
+-Buffed the imps, making them better melee fighters
 
 1.2.2:
 
