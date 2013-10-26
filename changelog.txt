@@ -19,6 +19,7 @@ Changelog:
 -Made the Quenoth Stalker and Assassin elusivefoot
 -Fixed the Dwarvish Flamethrower's ranged attack not showing up
 -Fixed the special notes for the Quenoth Mystic line
+-Gave the Quenoth Prophetess Sustenance
 
 1.2.2:
 
