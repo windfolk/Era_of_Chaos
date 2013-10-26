@@ -3,7 +3,7 @@ Era of Chaos
 
 The Era of Chaos is a custom era for the game [Battle for Wesnoth] [1].
 It is based on the campaigns Under the Burning Suns, Invasion from the Unknown, 
-and After the Storm, as well as some custom factions made by Espreon and myself. 
+and After the Storm, as well as some custom factions. 
 It also features extended mainline factions with a greater variety of units.
 
 [1]: <https://www.wesnoth.org>
