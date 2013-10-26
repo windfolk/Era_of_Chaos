@@ -8,7 +8,7 @@ It also features extended mainline factions with a greater variety of units.
 
 [1]: <https://www.wesnoth.org>
 
-Installing NX-RPG
+Installing Era of Chaos
 --------------------------------------------------------------------------------
 Released versions of Era of Chaos should be installed from Battle for Wesnoth’s
 official add-ons servers, via Battle for Wesnoth’s built-in add-ons manager,
