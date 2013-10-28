@@ -23,6 +23,7 @@ Changelog:
 -Buffed the imps, making them better melee fighters
 -Merged the Imperials and Infernals
 -Removed the Biomechanical soldiers and the Shaxthal Razorbird line
+-Improved the Quenoth Lurker's melee attack
 
 1.2.2:
 
