@@ -2,6 +2,10 @@
 
 Changelog:
 
+1.3.0+dev:
+
+-New animations for the Aragwaith Greatbow
+
 1.3.0:
 
 -Fixed Night Nymph advancement
