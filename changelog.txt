@@ -2,7 +2,7 @@
 
 Changelog:
 
-1.2.2+dev:
+1.3.0:
 
 -Fixed Night Nymph advancement
 -Rebalanced the Chaos Longbowman and Crossbowman lines (L2 - L3)
