@@ -6,6 +6,7 @@ Changelog:
 
 -New animations for the Aragwaith Greatbow
 -Removed old unit IDs from the Chaos Empire's leader list
+-Fixed a bug causing the Demon Shapeshifter to be immortal
 
 1.3.0:
 
