@@ -20,7 +20,7 @@ be found [on GitHub] [3], into Battle for Wesnoth’s
 “[userdata][4]/data/add-ons/” directory.
 
 [2]: <http://www.git-scm.com>
-[3]: <https://github.com/bumbadadabum/Era_of_Chaos>
+[3]: <https://github.com/windfolk/Era_of_Chaos>
 [4]: <http://wiki.wesnoth.org/EditingWesnoth#Where_is_my_user_data_directory.3F>
 
 Reporting issues
@@ -28,4 +28,4 @@ Reporting issues
 If you encounter any bugs or other problems, you may report them at our [issue
 tracker on GitHub] [6].
 
-[6]: <https://github.com/bumbadadabum/Era_of_Chaos/issues>
+[6]: <https://github.com/windfolk/Era_of_Chaos/issues>
