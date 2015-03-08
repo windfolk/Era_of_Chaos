@@ -4,7 +4,8 @@ Changelog:
 
 1.3.2+dev:
 
--Shockbird: -2 melee damage
+-Decreased the Shockbird's melee damage by 2
+-Increased the Automaton's shield damage by 1
 
 1.3.2:
 
