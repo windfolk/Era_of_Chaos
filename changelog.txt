@@ -8,10 +8,12 @@ Changelog:
 -Increased the Automaton's shield damage by 1
 -Updated sprites from After the Storm
 -Give the Aragwaith Greatbow marksman instead of precision
--Use the mainline version of the Nightblade instead
+-Used the mainline version of the Nightblade instead
 -Made Shaxthal vulnerable to plague
 -Made Vampires vulnerable to drain
--Add a missing image for the Aragwaith Longswordsman's alternate sprite
+-Added a missing image for the Aragwaith Longswordsman's alternate sprite
+-Added a new idle animation to the Aragwaith Witch
+
 
 1.3.2:
 
