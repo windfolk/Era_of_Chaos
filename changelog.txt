@@ -13,7 +13,7 @@ Changelog:
 -Made Vampires vulnerable to drain
 -Added a missing image for the Aragwaith Longswordsman's alternate sprite
 -Added a new idle animation to the Aragwaith Witch
-
+-Added an alternate sprite for the Aragwaith Wizard
 
 1.3.2:
 
