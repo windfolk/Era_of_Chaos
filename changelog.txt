@@ -10,7 +10,7 @@ Changelog:
 -Give the Aragwaith Greatbow marksman instead of precision
 -Used the mainline version of the Nightblade instead
 -Made Shaxthal vulnerable to plague
--Made Vampires vulnerable to drain
+-Made Vampires vulnerable to poison
 -Added a missing image for the Aragwaith Longswordsman's alternate sprite
 -Added a new idle animation to the Aragwaith Witch
 -Added an alternate sprite for the Aragwaith Wizard
