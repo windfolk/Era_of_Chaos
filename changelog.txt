@@ -16,7 +16,8 @@ Changelog:
 -Added an alternate sprite for the Aragwaith Wizard
 -Added a missing sprite for the Ice Fang
 -Added a new sprite for the Dwarvish Flamethrower
--Add a description for the eras
+-Added a description for the eras
+-New unit descriptions for most Chaos units
 
 1.3.2:
 
