@@ -18,7 +18,8 @@ Changelog:
 -Added a new sprite for the Dwarvish Flamethrower
 -Added a description for the eras
 -New unit descriptions for most Chaos units
--Fix vampire transformations 
+-Fix vampire transformations
+-Add AMLAs for the Chaos Sharpshooter and Lava Ettin
 
 1.3.2:
 
