@@ -2,6 +2,10 @@
 
 Changelog:
 
+1.4.0+dev:
+
+-Fixed incorrect sprites in some Aragwaith animations
+
 1.4.0:
 
 -Decreased the Shockbird's melee damage by 2
