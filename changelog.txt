@@ -5,6 +5,8 @@ Changelog:
 1.4.0+dev:
 
 -Fixed incorrect sprites in some Aragwaith animations
+-Updated sprites from mainline
+-Replace the Vampire Bats with Gargoyles
 
 1.4.0:
 
