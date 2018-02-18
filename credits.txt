@@ -5,7 +5,7 @@ Idea, assembly, and coding:
 
 -bumbadadabum
 -vultraz
--shadowmaster
+-shadowm
 -Espreon
 
 
@@ -22,7 +22,7 @@ Chaos:
 -Neoriceisgood
 -Neoskel
 -Zerovirus
--shadowmaster
+-shadowm
 -EVILEST
 -vultraz
 -Zerovirus
@@ -31,7 +31,7 @@ Chaos:
 
 Undead:
 
--shadowmaster
+-shadowm
 
 Quenoth Elves:
 
@@ -40,7 +40,7 @@ Quenoth Elves:
 
 Sylvans:
 
--shadowmaster
+-shadowm
 
 Dwarves:
 
